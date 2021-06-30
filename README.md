@@ -1,1 +1,1 @@
-- Hi I am Markdekaiser and I am currently a college student learning full-stack using Django Python and React JS. Also currently learning Game dev using Godot
+- Hi I am Mark Thaddeus Manuel and I am currently a college student . Also currently learning Game dev using Godot
