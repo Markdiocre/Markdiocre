@@ -1,1 +1,1 @@
-- Hi I am Mark Thaddeus Manuel and I am currently a college student . Also currently learning Game dev using Godot
+- Hi I am Mark Thaddeus Manuel and I am currently a college student . Also is learning Fullstack with Django and VueJS
