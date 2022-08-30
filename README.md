@@ -1,0 +1,1 @@
+- Hi I am Mark Thaddeus Manuel and I am currently a college student . Also is learning Fullstack Web-Developtment with Django and VueJS
