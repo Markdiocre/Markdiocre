@@ -1,15 +1,12 @@
 body {
     background-color: rgb(0, 0, 0);
     color: white;
-}
-
-#face{
-    width: 120px;
-    height: 120px;
+    text-align: center;
 }
 
 h1,h2,h3,h4{
     color: green;
+    text-align: center;
 }
 
 .innovation{
@@ -18,7 +15,7 @@ h1,h2,h3,h4{
 }
 
 .list{
-    list-style: square;
+    list-style: none;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -37,4 +34,8 @@ h3{
 
 .stack{
     color: yellowgreen;
+}
+
+#face{
+    object-fit: cover;
 }
